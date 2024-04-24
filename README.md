@@ -1,1 +1,1 @@
-# Atividade-Gerencia-de-Configuracao
+# Atividade de Engenharia de Software: Gerência de Configuração
